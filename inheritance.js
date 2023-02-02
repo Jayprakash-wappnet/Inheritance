@@ -1,4 +1,4 @@
-/* this is example of Inheritance (multiple inheritance)
+/* this is example of Inheritance (multilevel inheritance)
 This is Parents class which have total two params name,age and two methods*/
 class Animals{
     constructor(name,age){
